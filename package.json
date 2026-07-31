@@ -40,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EndBug/add-and-commit.git"
+    "url": "git+https://github.com/Sombrerita/add-and-commit.git"
   },
   "keywords": [
     "github",
@@ -52,7 +52,8 @@
   "author": "Federico Grandi <fgrandi30@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EndBug/add-and-commit/issues"
+    "url": "https://github.com/Sombrerita/add-and-commit/issues"
   },
-  "homepage": "https://github.com/EndBug/add-and-commit#readme"
+  "homepage": "https://github.com/Sombrerita/add-and-commit#readme"
 }
+
