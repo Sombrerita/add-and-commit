@@ -6,4 +6,5 @@ on:
 
 jobs:
   stale:
-    uses: EndBug/workflows/.github/workflows/stale.yml@main
+    uses: Sombrerita/workflows/.github/workflows/stale.yml@main
+
